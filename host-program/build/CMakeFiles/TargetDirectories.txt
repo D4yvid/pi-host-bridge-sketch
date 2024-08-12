@@ -1,0 +1,3 @@
+/home/day/dev/rpi/host-program/build/CMakeFiles/client.dir
+/home/day/dev/rpi/host-program/build/CMakeFiles/edit_cache.dir
+/home/day/dev/rpi/host-program/build/CMakeFiles/rebuild_cache.dir

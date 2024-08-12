@@ -1,0 +1,10 @@
+# ninja log v6
+1	105	1723408728008753444	CMakeFiles/client.dir/src/serial.c.o	bf8b49dbffd15b1f
+42	61	1723408855932111158	client	a94cbf563bf92eb8
+0	58	1723412498973444182	CMakeFiles/client.dir/src/main.c.o	61b44e4dcc33af83
+0	67	1723412597056003734	CMakeFiles/client.dir/src/serial/serial.c.o	1ebd1c8c24114398
+1	38	1723412615330107987	CMakeFiles/client.dir/src/message/parser.c.o	d96c5737c93c9421
+39	63	1723412615368108204	client	854dc32908148994
+17	1176	1723432433714137570	CMakeFiles/client.dir/src/serial/serial.c.o	1ebd1c8c24114398
+18	1207	1723432433715137576	CMakeFiles/client.dir/src/main.c.o	61b44e4dcc33af83
+1207	1391	1723432434904144424	client	854dc32908148994

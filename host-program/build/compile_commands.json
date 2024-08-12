@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/day/dev/rpi/host-program/build",
+  "command": "/usr/lib64/ccache/cc -g -o CMakeFiles/client.dir/src/message/parser.c.o -c /home/day/dev/rpi/host-program/src/message/parser.c",
+  "file": "/home/day/dev/rpi/host-program/src/message/parser.c",
+  "output": "CMakeFiles/client.dir/src/message/parser.c.o"
+},
+{
+  "directory": "/home/day/dev/rpi/host-program/build",
+  "command": "/usr/lib64/ccache/cc -g -o CMakeFiles/client.dir/src/serial/serial.c.o -c /home/day/dev/rpi/host-program/src/serial/serial.c",
+  "file": "/home/day/dev/rpi/host-program/src/serial/serial.c",
+  "output": "CMakeFiles/client.dir/src/serial/serial.c.o"
+},
+{
+  "directory": "/home/day/dev/rpi/host-program/build",
+  "command": "/usr/lib64/ccache/cc -g -o CMakeFiles/client.dir/src/main.c.o -c /home/day/dev/rpi/host-program/src/main.c",
+  "file": "/home/day/dev/rpi/host-program/src/main.c",
+  "output": "CMakeFiles/client.dir/src/main.c.o"
+}
+]
